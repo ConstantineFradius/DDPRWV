@@ -44,7 +44,7 @@
      
 	<table cellspacing="20">
 	<tr>
-<td>img src="DDPRWV/tree/main/WebApplication1/WebApplication1/images" alt="People's revolutionary symbol"</td>
+<td>img src="tree/main/WebApplication1/WebApplication1/images" alt="People's revolutionary symbol"</td>
 	</tr>
     <tr>
 <h3>our accomplishments</h3>
