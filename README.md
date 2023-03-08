@@ -43,10 +43,8 @@
     </ol>
      
 	<table cellspacing="20">
-	<tr>
 ![seriflg](https://user-images.githubusercontent.com/8038872/223783412-eea7ff51-8364-4313-affc-54eb43ab5993.png)
 
-	</tr>
     <tr>
 <h3>our accomplishments</h3>
 <table>
