@@ -41,7 +41,7 @@
         <li>arguing for the people's movement</li>
         <li>how to support fellow committed peoples</li>
     </ol>
-    img src="images/Screenshot 2023-03-08 091739.png" alt="People's revolutionary symbol"
+    img src="DDPRWV/blob/main/WebApplication1/WebApplication1/images/seriflg.png" alt="People's revolutionary symbol"
 <h3>our accomplishments</h3>
 <table>
 	<tr>
