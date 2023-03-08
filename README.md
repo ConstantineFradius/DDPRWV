@@ -41,7 +41,7 @@
         <li>arguing for the people's movement</li>
         <li>how to support fellow committed peoples</li>
     </ol>
-    img src="seriflg.png" alt="People's revolutionary symbol"
+     <td>img src="seriflg.png" alt="People's revolutionary symbol"</td>
 <h3>our accomplishments</h3>
 <table>
 	<tr>
