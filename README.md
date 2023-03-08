@@ -42,7 +42,7 @@
         <li>how to support fellow committed peoples</li>
     </ol>
      
-	<table>
+	<table cellspacing="20">
 	<tr>
 <td>img src="seriflg.png" alt="People's revolutionary symbol"</td>
 	</tr>
